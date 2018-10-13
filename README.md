@@ -1,5 +1,8 @@
 # breadcrumbs
 breadcrumbs for understrap
 
-# Modified breadcrumbs script for understrap
-I saved this script in /inc folder, then included it in functions.php. 
+# Breadcrumbs script for understrap
+Saved this script in /inc folder, then include it in functions.php. 
+
+# Usage
+Place "<?php custom_breadcrumbs(); ?>" wherever you want the breadcrumbs in your site.
